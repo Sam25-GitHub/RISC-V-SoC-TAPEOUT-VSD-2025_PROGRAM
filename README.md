@@ -40,4 +40,32 @@ make
 sudo make install
 
 
+```
+
+# Iverilog
+## Install Icarus Verilog (iverilog)
+
+```bash
+# Update package lists
+sudo apt-get update
+
+# Install Icarus Verilog
+sudo apt-get install iverilog
+
+```
+
+# Gtkwave
+
+## Install GTKWave
+
+```bash
+# Update package lists
+sudo apt-get update
+
+# Install GTKWave waveform viewer
+sudo apt install gtkwave
+```
+
+
+
 
